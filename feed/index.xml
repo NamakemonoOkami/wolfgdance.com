@@ -12,21 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Dance, Music, Etc.</description>
-<<<<<<< HEAD
-	<lastBuildDate>Tue, 09 Apr 2024 22:47:20 +0000</lastBuildDate>
-=======
 	<lastBuildDate>Wed, 03 Apr 2024 01:47:46 +0000</lastBuildDate>
->>>>>>> a5fbf53b07993dd9af16cd854d7db99dd8460e0e
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-<<<<<<< HEAD
-	<generator>https://wordpress.org/?v=6.4.3</generator>
-=======
 	
->>>>>>> a5fbf53b07993dd9af16cd854d7db99dd8460e0e
 
 <image>
 	<url>/wp-content/uploads/2023/04/cropped-Wolfgang-Goluska-Final-08-1-scaled-1-32x32.jpg</url>
